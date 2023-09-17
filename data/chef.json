@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Chef Alice Johnson",
+      "specialty": "French Cuisine",
+      "overview": "Renowned for her expertise in French cuisine, Chef Alice excels in creating exquisite pastries and desserts.",
+      "rating": 4.8,
+      "number_of_recipes": 75,
+      "image_url": "https://i.ibb.co/Rjnnck7/chef1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chef Michael Smith",
+      "specialty": "Barbecue",
+      "overview": "Known for his mouthwatering barbecue creations, Chef Michael has been perfecting the art of grilling for 25 years.",
+      "rating": 4.5,
+      "number_of_recipes": 50,
+      "image_url": "https://i.ibb.co/ZRrnLdt/chef2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chef Maria Rodriguez",
+      "specialty": "Mexican Cuisine",
+      "overview": "A master of Mexican flavors, Chef Maria brings the vibrant tastes of Mexico to every dish she creates.",
+      "rating": 4.9,
+      "number_of_recipes": 90,
+      "image_url": "https://i.ibb.co/vJk034b/chef3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chef David Lee",
+      "specialty": "Sushi",
+      "overview": "With a passion for precision, Chef David crafts sushi that is not only delicious but also a work of art.",
+      "rating": 4.7,
+      "number_of_recipes": 60,
+      "image_url": "https://i.ibb.co/n7vQCHX/chef4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chef Emily Turner",
+      "specialty": "Vegetarian Cuisine",
+      "overview": "Dedicated to promoting plant-based eating, Chef Emily's dishes are both healthy and full of flavor.",
+      "rating": 4.6,
+      "number_of_recipes": 70,
+      "image_url": "https://i.ibb.co/SvLKZXf/chef5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chef William Harris",
+      "specialty": "Italian Cuisine",
+      "overview": "A true Italian at heart, Chef William's pasta creations are a culinary journey through Italy's regions.",
+      "rating": 4.8,
+      "number_of_recipes": 80,
+      "image_url": "https://i.ibb.co/MnYTwr6/chef6.jpg"
+    }
+  ]
+  

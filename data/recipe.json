@@ -1,0 +1,326 @@
+[
+    {
+      "id": 1,
+      "name": "Chef Alice Johnson",
+      "specialty": "French Cuisine",
+      "description": "Renowned for her expertise in French cuisine, Chef Alice excels in creating exquisite pastries and desserts that delight both the palate and the soul.",
+      "image_url": "https://i.ibb.co/Rjnnck7/chef1.jpg",
+      "recipes": [
+        {
+          "title": "Croissant",
+          "description": "A buttery and flaky French pastry that melts in your mouth, perfect for a leisurely breakfast or brunch.",
+          "image_url": "https://i.ibb.co/Jq2FkNr/recipe-1.jpg",
+          "ingredients": [
+            "Flour",
+            "Butter",
+            "Yeast",
+            "Milk",
+            "Sugar",
+            "Salt"
+          ],
+          "rating": 4.9
+        },
+        {
+          "title": "Tarte Tatin",
+          "description": "A classic French caramelized apple tart with a crisp pastry crust, a true indulgence for dessert lovers.",
+          "image_url": "https://i.ibb.co/dcVV0Cx/recipe-10.jpg",
+          "ingredients": [
+            "Apples",
+            "Butter",
+            "Sugar",
+            "Pastry dough"
+          ],
+          "rating": 4.7
+        },
+        {
+          "title": "Crème Brûlée",
+          "description": "A rich and creamy custard dessert with a caramelized sugar topping, the epitome of French elegance.",
+          "image_url": "https://i.ibb.co/DbW6v3Q/recipe-9.jpg",
+          "ingredients": [
+            "Egg yolks",
+            "Cream",
+            "Sugar",
+            "Vanilla"
+          ],
+          "rating": 4.8
+        },
+        {
+          "title": "Eclairs",
+          "description": "Delicate pastry filled with cream and topped with chocolate icing, a heavenly treat for any occasion.",
+          "image_url": "https://i.ibb.co/fH4pSrJ/recipe-8.jpg",
+          "ingredients": [
+            "Flour",
+            "Eggs",
+            "Milk",
+            "Cream",
+            "Chocolate"
+          ],
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chef Michael Smith",
+      "specialty": "Barbecue",
+      "description": "Chef Michael Smith is known for his mouthwatering barbecue creations, having perfected the art of grilling over 25 years of experience.",
+      "image_url": "https://i.ibb.co/ZRrnLdt/chef2.jpg",
+      "recipes": [
+        {
+          "title": "Smoked Ribs",
+          "description": "Tender and smoky ribs seasoned to perfection, a barbecue lover's dream come true.",
+          "image_url": "https://i.ibb.co/HzM9nf8/recipe-3.jpg",
+          "ingredients": [
+            "Beef ribs",
+            "Barbecue rub",
+            "Wood chips",
+            "BBQ sauce"
+          ],
+          "rating": 4.9
+        },
+        {
+          "title": "Brisket",
+          "description": "Juicy and flavorful brisket with a savory rub and smoky aroma, the star of any barbecue feast.",
+          "image_url": "https://i.ibb.co/519h1b7/recipe-2.jpg",
+          "ingredients": [
+            "Beef brisket",
+            "Barbecue rub",
+            "Wood chips"
+          ],
+          "rating": 4.8
+        },
+        {
+          "title": "Grilled Corn",
+          "description": "Sweet and charred corn on the cob with a hint of smokiness, a perfect side dish for summer grilling.",
+          "image_url": "https://i.ibb.co/72kYCGb/recipe-6.jpg",
+          "ingredients": [
+            "Corn on the cob",
+            "Butter",
+            "Salt",
+            "Pepper"
+          ],
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chef Maria Rodriguez",
+      "specialty": "Mexican Cuisine",
+      "description": "A master of Mexican flavors, Chef Maria brings the vibrant tastes of Mexico to every dish she creates, infusing them with her passion for authenticity and quality.",
+      "image_url": "https://i.ibb.co/vJk034b/chef3.jpg",
+      "recipes": [
+        {
+          "title": "Guacamole",
+          "description": "A fresh and creamy avocado dip with tomatoes, onions, and cilantro, the perfect party appetizer.",
+          "image_url": "https://i.ibb.co/HzM9nf8/recipe-3.jpg",
+          "ingredients": [
+            "Avocado",
+            "Tomatoes",
+            "Onions",
+            "Cilantro",
+            "Lime juice"
+          ],
+          "rating": 4.7
+        },
+        {
+          "title": "Enchiladas",
+          "description": "Tortillas filled with beans and cheese, topped with chili sauce and cheese, a comforting Mexican classic.",
+          "image_url": "https://i.ibb.co/519h1b7/recipe-2.jpg",
+          "ingredients": [
+            "Tortillas",
+            "Beans",
+            "Cheese",
+            "Chili sauce"
+          ],
+          "rating": 4.8
+        },
+        {
+          "title": "Churros",
+          "description": "Crispy fried dough dusted with cinnamon and sugar, perfect for dipping into rich chocolate sauce.",
+          "image_url": "https://i.ibb.co/72kYCGb/recipe-6.jpg",
+          "ingredients": [
+            "Flour",
+            "Sugar",
+            "Cinnamon",
+            "Chocolate sauce"
+          ],
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chef David Lee",
+      "specialty": "Sushi",
+      "description": "With a passion for precision, Chef David crafts sushi that is not only delicious but also a work of art, combining traditional techniques with creative flair.",
+      "image_url": "https://i.ibb.co/n7vQCHX/chef4.jpg",
+      "recipes": [
+        {
+          "title": "Sushi Rolls",
+          "description": "Colorful and flavorful sushi rolls with fresh seafood and vegetables, a feast for the eyes and the taste buds.",
+          "image_url": "https://i.ibb.co/YPb1Tfn/recipe-7.jpg",
+          "ingredients": [
+            "Sushi rice",
+            "Nori seaweed",
+            "Fresh seafood",
+            "Vegetables"
+          ],
+          "rating": 4.9
+        },
+        {
+          "title": "Sashimi",
+          "description": "Thinly sliced raw fish served with soy sauce and wasabi, the epitome of sushi simplicity and purity.",
+          "image_url": "https://i.ibb.co/72kYCGb/recipe-6.jpg",
+          "ingredients": [
+            "Fresh fish",
+            "Soy sauce",
+            "Wasabi"
+          ],
+          "rating": 4.7
+        },
+        {
+          "title": "Nigiri",
+          "description": "Hand-pressed sushi rice topped with various ingredients like fish and seafood, showcasing the essence of sushi artistry.",
+          "image_url": "https://i.ibb.co/jLjwz6F/recipe-5.jpg",
+          "ingredients": [
+            "Sushi rice",
+            "Fresh fish/seafood",
+            "Wasabi",
+            "Soy sauce"
+          ],
+          "rating": 4.8
+        },
+        {
+          "title": "Miso Soup",
+          "description": "A comforting and savory Japanese soup made with fermented soybean paste, the perfect start to any sushi meal.",
+          "image_url": "https://i.ibb.co/8MY3500/recipe-4.jpg",
+          "ingredients": [
+            "Miso paste",
+            "Tofu",
+            "Seaweed",
+            "Green onions"
+          ],
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+        "id": 5,
+        "name": "Chef Emily Turner",
+        "specialty": "French Cuisine",
+        "description": "Renowned for her expertise in French cuisine, Chef Alice excels in creating exquisite pastries and desserts that delight both the palate and the soul.",
+        "image_url": "https://i.ibb.co/SvLKZXf/chef5.jpg",
+        "recipes": [
+          {
+            "title": "Croissant",
+            "description": "A buttery and flaky French pastry that melts in your mouth, perfect for a leisurely breakfast or brunch.",
+            "image_url": "https://i.ibb.co/YPb1Tfn/recipe-7.jpg",
+            "ingredients": [
+              "Flour",
+              "Butter",
+              "Yeast",
+              "Milk",
+              "Sugar",
+              "Salt"
+            ],
+            "rating": 4.9
+          },
+          {
+            "title": "Tarte Tatin",
+            "description": "A classic French caramelized apple tart with a crisp pastry crust, a true indulgence for dessert lovers.",
+            "image_url": "https://i.ibb.co/72kYCGb/recipe-6.jpg",
+            "ingredients": [
+              "Apples",
+              "Butter",
+              "Sugar",
+              "Pastry dough"
+            ],
+            "rating": 4.7
+          },
+          {
+            "title": "Crème Brûlée",
+            "description": "A rich and creamy custard dessert with a caramelized sugar topping, the epitome of French elegance.",
+            "image_url": "https://i.ibb.co/jLjwz6F/recipe-5.jpg",
+            "ingredients": [
+              "Egg yolks",
+              "Cream",
+              "Sugar",
+              "Vanilla"
+            ],
+            "rating": 4.8
+          },
+          {
+            "title": "Eclairs",
+            "description": "Delicate pastry filled with cream and topped with chocolate icing, a heavenly treat for any occasion.",
+            "image_url": "https://i.ibb.co/8MY3500/recipe-4.jpg",
+            "ingredients": [
+              "Flour",
+              "Eggs",
+              "Milk",
+              "Cream",
+              "Chocolate"
+            ],
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Chef William Harris",
+        "specialty": "Sushi",
+        "description": "With a passion for precision, Chef David crafts sushi that is not only delicious but also a work of art, combining traditional techniques with creative flair.",
+        "image_url": "https://i.ibb.co/MnYTwr6/chef6.jpg",
+        "recipes": [
+          {
+            "title": "Sushi Rolls",
+            "description": "Colorful and flavorful sushi rolls with fresh seafood and vegetables, a feast for the eyes and the taste buds.",
+            "image_url": "https://i.ibb.co/72kYCGb/recipe-6.jpg",
+            "ingredients": [
+              "Sushi rice",
+              "Nori seaweed",
+              "Fresh seafood",
+              "Vegetables"
+            ],
+            "rating": 4.9
+          },
+          {
+            "title": "Sashimi",
+            "description": "Thinly sliced raw fish served with soy sauce and wasabi, the epitome of sushi simplicity and purity.",
+            "image_url": "https://i.ibb.co/dcVV0Cx/recipe-10.jpg",
+            "ingredients": [
+              "Fresh fish",
+              "Soy sauce",
+              "Wasabi"
+            ],
+            "rating": 4.7
+          },
+          {
+            "title": "Nigiri",
+            "description": "Hand-pressed sushi rice topped with various ingredients like fish and seafood, showcasing the essence of sushi artistry.",
+            "image_url": "https://i.ibb.co/DbW6v3Q/recipe-9.jpg",
+            "ingredients": [
+              "Sushi rice",
+              "Fresh fish/seafood",
+              "Wasabi",
+              "Soy sauce"
+            ],
+            "rating": 4.8
+          },
+          {
+            "title": "Miso Soup",
+            "description": "A comforting and savory Japanese soup made with fermented soybean paste, the perfect start to any sushi meal.",
+            "image_url": "https://i.ibb.co/fH4pSrJ/recipe-8.jpg",
+            "ingredients": [
+              "Miso paste",
+              "Tofu",
+              "Seaweed",
+              "Green onions"
+            ],
+            "rating": 4.6
+          }
+        ]
+      }
+
+  ]
+  
