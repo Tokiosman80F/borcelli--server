@@ -3,8 +3,8 @@ const cors=require('cors')
 const app = express()
 const port=4000
 
-const chefData=require('./data/chef.json')
-const recipeData=require('./data/recipe.json')
+const chefData=require('https://borcelli-sever-i6e2839ow-tokiosman0135-gmailcom.vercel.app/chef')
+const recipeData=require('https://borcelli-sever-i6e2839ow-tokiosman0135-gmailcom.vercel.app/recipe')
 
 app.use(cors())
 
